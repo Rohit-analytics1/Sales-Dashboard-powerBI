@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_Name,Region,Category,Product,Quantity,Sales,Discount,Profit
+ORD0001,2025-05-21,Priya Verma,North,Electronics,Laptop,4,171000.0,0.05,18452.2
+ORD0002,2025-01-16,Meena Joshi,North,Accessories,Mouse,2,1710.0,0.05,216.37
+ORD0003,2025-04-23,Rahul Sharma,South,Furniture,Filing Cabinet,8,28800.0,0.2,3906.38
+ORD0004,2025-05-23,Arjun Malhotra,North,Accessories,Webcam,3,6270.0,0.05,1701.95
+ORD0005,2025-02-19,Amit Kumar,West,Electronics,Keyboard,6,9720.0,0.1,1951.24
+ORD0006,2025-02-10,Meena Joshi,East,Electronics,Keyboard,9,14580.0,0.1,3584.94
+ORD0007,2025-01-24,Pooja Sharma,North,Furniture,Office Chair,4,18000.0,0.1,4986.8
+ORD0008,2025-08-21,Vikas Yadav,East,Accessories,Webcam,6,12540.0,0.05,1931.61
+ORD0009,2025-11-22,Anjali Mehta,West,Electronics,Headphones,3,6000.0,0.2,1354.95
+ORD0010,2025-11-24,Amit Kumar,South,Accessories,Webcam,9,18810.0,0.05,4080.32
+ORD0011,2025-07-25,Akash Jain,East,Electronics,Monitor,5,60000.0,0.0,7331.79
+ORD0012,2025-07-22,Pooja Sharma,East,Furniture,Filing Cabinet,8,34200.0,0.05,4547.78
+ORD0013,2025-07-05,Neha Singh,North,Accessories,Laptop Bag,4,6840.0,0.05,1244.23
+ORD0014,2025-11-18,Manish Kumar,West,Electronics,Mobile,3,45900.0,0.15,9147.03
+ORD0015,2025-10-11,Kavita Sharma,East,Accessories,Webcam,1,2200.0,0.0,475.95
+ORD0016,2025-05-31,Karan Singh,South,Office Supplies,Notebook,7,1662.5,0.05,283.86
+ORD0017,2025-11-24,Nisha Patel,South,Electronics,Monitor,9,86400.0,0.2,10349.18
+ORD0018,2025-06-15,Nisha Patel,East,Electronics,Headphones,8,20000.0,0.0,2047.47
+ORD0019,2025-05-04,Riya Gupta,North,Furniture,Office Chair,10,50000.0,0.0,4856.53
+ORD0020,2025-12-04,Sandeep Singh,West,Furniture,Desk,8,51200.0,0.2,5786.9
+ORD0021,2025-06-09,Sandeep Singh,West,Furniture,Desk,7,50400.0,0.1,8448.05
+ORD0022,2025-04-26,Kavita Sharma,South,Electronics,Mobile,2,32400.0,0.1,2728.3
+ORD0023,2025-02-06,Amit Kumar,East,Furniture,Office Chair,1,4750.0,0.05,444.03
+ORD0024,2025-05-02,Rohit Gupta,West,Electronics,Headphones,5,10625.0,0.15,1305.25
+ORD0025,2025-07-28,Simran Kaur,East,Furniture,Filing Cabinet,4,18000.0,0.0,1788.95
+ORD0026,2025-08-28,Arjun Malhotra,North,Accessories,Laptop Bag,1,1800.0,0.0,165.82
+ORD0027,2025-04-08,Anjali Mehta,East,Furniture,Desk,9,61200.0,0.15,6611.83
+ORD0028,2025-02-08,Kavita Sharma,North,Accessories,USB Cable,8,2240.0,0.2,223.06
+ORD0029,2025-03-27,Manish Kumar,North,Electronics,Mobile,7,107100.0,0.15,18878.7
+ORD0030,2025-01-02,Deepak Verma,East,Furniture,Filing Cabinet,7,28350.0,0.1,7521.36
+ORD0031,2025-03-21,Amit Kumar,North,Accessories,Laptop Bag,4,6480.0,0.1,800.54
+ORD0032,2025-01-26,Sandeep Singh,South,Office Supplies,Notebook,10,2125.0,0.15,383.71
+ORD0033,2025-02-11,Pooja Sharma,West,Electronics,Headphones,3,7500.0,0.0,1492.55
+ORD0034,2025-05-07,Neha Singh,West,Electronics,Headphones,10,20000.0,0.2,1758.97
+ORD0035,2025-04-15,Rohit Gupta,East,Office Supplies,Pen Set,6,1026.0,0.05,136.58
+ORD0036,2025-02-07,Akash Jain,North,Accessories,Webcam,1,1870.0,0.15,381.91
+ORD0037,2025-04-20,Nisha Patel,North,Electronics,Headphones,9,20250.0,0.1,2156.45
+ORD0038,2025-05-26,Sneha Kapoor,North,Furniture,Bookshelf,3,15300.0,0.15,3775.26
+ORD0039,2025-03-10,Kavita Sharma,South,Office Supplies,Notebook,5,1250.0,0.0,322.43
+ORD0040,2025-11-06,Karan Singh,West,Office Supplies,Pen Set,4,648.0,0.1,78.23
+ORD0041,2025-02-17,Arjun Malhotra,South,Office Supplies,Notebook,7,1575.0,0.1,139.89
+ORD0042,2025-08-15,Priya Verma,North,Office Supplies,Printer Paper,9,3442.5,0.15,661.58
+ORD0043,2025-07-09,Rohit Gupta,North,Furniture,Office Chair,10,40000.0,0.2,4384.75
+ORD0044,2025-01-21,Priya Verma,East,Office Supplies,Pen Set,6,1026.0,0.05,222.04
+ORD0045,2025-05-02,Rahul Sharma,South,Accessories,USB Cable,3,997.5,0.05,255.64
+ORD0046,2025-12-09,Priya Verma,West,Office Supplies,Stapler,4,792.0,0.1,88.58
+ORD0047,2025-04-24,Pooja Sharma,South,Electronics,Keyboard,4,6120.0,0.15,917.58
+ORD0048,2025-07-24,Karan Singh,East,Electronics,Mobile,6,97200.0,0.1,24579.02
+ORD0049,2025-01-15,Karan Singh,North,Accessories,Webcam,2,3960.0,0.1,458.23
+ORD0050,2025-08-11,Sandeep Singh,North,Electronics,Headphones,6,13500.0,0.1,2258.26
+ORD0051,2025-05-11,Kavita Sharma,South,Accessories,USB Cable,1,297.5,0.15,23.9
+ORD0052,2025-02-05,Priya Verma,East,Office Supplies,Stapler,6,1056.0,0.2,150.78
+ORD0053,2025-06-17,Vikas Yadav,West,Office Supplies,Stapler,7,1386.0,0.1,264.56
+ORD0054,2025-11-12,Rahul Sharma,East,Accessories,USB Cable,10,3150.0,0.1,507.83
+ORD0055,2025-08-09,Deepak Verma,West,Office Supplies,Printer Paper,10,3600.0,0.2,759.39
+ORD0056,2025-09-19,Sneha Kapoor,East,Accessories,USB Cable,8,2660.0,0.05,563.31
+ORD0057,2025-12-11,Rohit Gupta,North,Electronics,Mobile,5,85500.0,0.05,20632.23
+ORD0058,2025-09-01,Akash Jain,South,Electronics,Mobile,10,180000.0,0.0,30794.98
+ORD0059,2025-07-24,Rahul Sharma,North,Accessories,Laptop Bag,4,6840.0,0.05,1444.69
+ORD0060,2025-04-01,Pooja Sharma,North,Accessories,USB Cable,9,2677.5,0.15,241.09
+ORD0061,2025-08-26,Deepak Verma,West,Accessories,USB Cable,9,2520.0,0.2,501.71
+ORD0062,2025-09-01,Karan Singh,West,Accessories,USB Cable,8,2520.0,0.1,580.5
+ORD0063,2025-08-14,Arjun Malhotra,East,Furniture,Bookshelf,2,10800.0,0.1,1370.51
+ORD0064,2025-03-19,Vikas Yadav,North,Electronics,Mobile,4,61200.0,0.15,13389.95
+ORD0065,2025-06-19,Vikas Yadav,West,Accessories,Laptop Bag,9,13770.0,0.15,2246.64
+ORD0066,2025-10-22,Nisha Patel,East,Accessories,Mouse,7,5355.0,0.15,434.71
+ORD0067,2025-10-03,Riya Gupta,South,Accessories,Laptop Bag,9,12960.0,0.2,3363.93
+ORD0068,2025-09-06,Manish Kumar,South,Office Supplies,Stapler,1,187.0,0.15,27.53
+ORD0069,2025-11-15,Akash Jain,North,Accessories,USB Cable,9,3150.0,0.0,823.37
+ORD0070,2025-03-11,Manish Kumar,East,Electronics,Keyboard,8,13680.0,0.05,1231.98
+ORD0071,2025-06-17,Simran Kaur,East,Furniture,Filing Cabinet,6,22950.0,0.15,3113.2
+ORD0072,2025-01-10,Nisha Patel,South,Electronics,Keyboard,9,16200.0,0.0,4535.7
+ORD0073,2025-01-16,Meena Joshi,South,Electronics,Laptop,4,171000.0,0.05,42381.63
+ORD0074,2025-08-31,Deepak Verma,East,Furniture,Desk,2,12800.0,0.2,3450.26
+ORD0075,2025-11-07,Anjali Mehta,East,Office Supplies,Printer Paper,10,4500.0,0.0,1060.01
+ORD0076,2025-01-14,Manish Kumar,West,Electronics,Headphones,5,10000.0,0.2,2154.69
+ORD0077,2025-10-31,Sneha Kapoor,North,Furniture,Office Chair,4,20000.0,0.0,4388.77
+ORD0078,2025-09-30,Arjun Malhotra,North,Electronics,Monitor,7,75600.0,0.1,7090.63
+ORD0079,2025-02-24,Deepak Verma,South,Accessories,Laptop Bag,7,11340.0,0.1,2348.71
+ORD0080,2025-09-25,Kavita Sharma,West,Accessories,USB Cable,5,1400.0,0.2,338.3
+ORD0081,2025-10-31,Neha Singh,East,Accessories,Laptop Bag,5,8100.0,0.1,2027.78
+ORD0082,2025-08-26,Arjun Malhotra,North,Accessories,USB Cable,10,2800.0,0.2,598.19
+ORD0083,2025-04-04,Karan Singh,East,Accessories,Webcam,8,16720.0,0.05,2524.13
+ORD0084,2025-12-26,Vikas Yadav,North,Office Supplies,File Folder,5,480.0,0.2,39.37
+ORD0085,2025-09-08,Riya Gupta,West,Furniture,Filing Cabinet,9,38475.0,0.05,8392.24
+ORD0086,2025-05-31,Sneha Kapoor,East,Electronics,Laptop,4,153000.0,0.15,33408.69
+ORD0087,2025-08-06,Deepak Verma,East,Accessories,Webcam,9,17820.0,0.1,2679.45
+ORD0088,2025-04-29,Kavita Sharma,South,Office Supplies,Pen Set,2,342.0,0.05,48.94
+ORD0089,2025-09-05,Sandeep Singh,East,Furniture,Desk,5,32000.0,0.2,8810.28
+ORD0090,2025-06-01,Rahul Sharma,South,Electronics,Mobile,4,64800.0,0.1,7509.56
+ORD0091,2025-01-28,Rohit Gupta,West,Office Supplies,Notebook,9,2025.0,0.1,444.45
+ORD0092,2025-10-21,Arjun Malhotra,South,Electronics,Laptop,5,191250.0,0.15,33610.82
+ORD0093,2025-09-02,Neha Singh,North,Electronics,Monitor,2,24000.0,0.0,3843.4
+ORD0094,2025-10-16,Priya Verma,West,Furniture,Desk,5,40000.0,0.0,11151.34
+ORD0095,2025-08-19,Simran Kaur,East,Furniture,Filing Cabinet,8,32400.0,0.1,8165.88
+ORD0096,2025-02-20,Neha Singh,South,Electronics,Headphones,4,9500.0,0.05,1262.83
+ORD0097,2025-10-10,Deepak Verma,West,Furniture,Desk,2,15200.0,0.05,1224.13
+ORD0098,2025-04-29,Deepak Verma,North,Office Supplies,Notebook,5,1125.0,0.1,248.17
+ORD0099,2025-11-17,Kavita Sharma,South,Furniture,Bookshelf,10,57000.0,0.05,9406.58
+ORD0100,2025-03-14,Sneha Kapoor,East,Furniture,Bookshelf,2,12000.0,0.0,1358.21
+ORD0101,2025-08-28,Sandeep Singh,West,Accessories,Mouse,5,3825.0,0.15,1027.15
+ORD0102,2025-11-03,Meena Joshi,East,Accessories,Mouse,1,765.0,0.15,173.58
+ORD0103,2025-04-28,Karan Singh,North,Electronics,Laptop,10,360000.0,0.2,97256.61
+ORD0104,2025-09-23,Akash Jain,West,Furniture,Filing Cabinet,8,32400.0,0.1,3768.05
+ORD0105,2025-08-29,Priya Verma,South,Accessories,Mouse,6,4590.0,0.15,673.18
+ORD0106,2025-12-22,Manish Kumar,North,Office Supplies,Stapler,8,1584.0,0.1,336.63
+ORD0107,2025-06-11,Manish Kumar,North,Accessories,Mouse,5,4050.0,0.1,417.9
+ORD0108,2025-01-28,Riya Gupta,West,Accessories,Laptop Bag,4,5760.0,0.2,877.57
+ORD0109,2025-05-17,Deepak Verma,West,Electronics,Mobile,9,153900.0,0.05,40865.77
+ORD0110,2025-11-19,Sneha Kapoor,North,Electronics,Laptop,10,427500.0,0.05,94886.43
+ORD0111,2025-04-26,Rohit Gupta,West,Accessories,Mouse,2,1530.0,0.15,412.2
+ORD0112,2025-12-28,Riya Gupta,South,Office Supplies,File Folder,5,510.0,0.15,125.94
+ORD0113,2025-07-16,Rohit Gupta,North,Accessories,USB Cable,4,1120.0,0.2,203.45
+ORD0114,2025-06-24,Sneha Kapoor,East,Office Supplies,Stapler,9,1782.0,0.1,435.0
+ORD0115,2025-08-17,Kavita Sharma,West,Accessories,USB Cable,9,2677.5,0.15,399.01
+ORD0116,2025-04-07,Simran Kaur,North,Accessories,Webcam,4,7040.0,0.2,1102.42
+ORD0117,2025-12-28,Rohit Gupta,West,Office Supplies,Stapler,7,1309.0,0.15,363.49
+ORD0118,2025-09-15,Deepak Verma,North,Electronics,Mobile,10,162000.0,0.1,41138.29
+ORD0119,2025-03-15,Karan Singh,East,Accessories,Mouse,7,5985.0,0.05,568.37
+ORD0120,2025-06-18,Riya Gupta,North,Accessories,Mouse,9,6885.0,0.15,1864.65
+ORD0121,2025-11-20,Simran Kaur,North,Electronics,Mobile,5,85500.0,0.05,19609.7
+ORD0122,2025-03-27,Amit Kumar,East,Electronics,Keyboard,5,9000.0,0.0,802.78
+ORD0123,2025-08-09,Akash Jain,South,Office Supplies,Pen Set,3,513.0,0.05,95.54
+ORD0124,2025-02-10,Pooja Sharma,West,Furniture,Desk,10,68000.0,0.15,13868.06
+ORD0125,2025-08-25,Rahul Sharma,West,Furniture,Desk,5,34000.0,0.15,4456.22
+ORD0126,2025-03-22,Akash Jain,East,Office Supplies,File Folder,2,204.0,0.15,54.89
+ORD0127,2025-08-22,Riya Gupta,North,Accessories,Webcam,5,10450.0,0.05,2924.69
+ORD0128,2025-10-20,Sneha Kapoor,North,Furniture,Filing Cabinet,6,21600.0,0.2,3006.17
+ORD0129,2025-01-05,Riya Gupta,East,Accessories,Webcam,10,22000.0,0.0,5766.71
+ORD0130,2025-04-23,Rohit Gupta,North,Furniture,Bookshelf,4,19200.0,0.2,2498.41
+ORD0131,2025-08-14,Rohit Gupta,North,Electronics,Monitor,1,9600.0,0.2,1468.53
+ORD0132,2025-08-01,Kavita Sharma,East,Office Supplies,Pen Set,3,513.0,0.05,54.6
+ORD0133,2025-05-12,Arjun Malhotra,North,Office Supplies,Printer Paper,8,3240.0,0.1,742.97
+ORD0134,2025-03-14,Kavita Sharma,East,Accessories,Mouse,4,3060.0,0.15,836.77
+ORD0135,2025-01-08,Nisha Patel,East,Electronics,Keyboard,5,7200.0,0.2,753.97
+ORD0136,2025-02-25,Kavita Sharma,East,Accessories,Webcam,4,7480.0,0.15,635.84
+ORD0137,2025-11-22,Priya Verma,South,Furniture,Office Chair,8,36000.0,0.1,7554.52
+ORD0138,2025-06-05,Kavita Sharma,South,Electronics,Laptop,8,360000.0,0.0,35797.82
+ORD0139,2025-07-09,Rohit Gupta,West,Accessories,Laptop Bag,9,13770.0,0.15,2719.14
+ORD0140,2025-11-12,Nisha Patel,South,Electronics,Keyboard,7,11340.0,0.1,981.4
+ORD0141,2025-05-01,Nisha Patel,East,Accessories,Laptop Bag,6,10800.0,0.0,2982.8
+ORD0142,2025-05-22,Deepak Verma,North,Electronics,Keyboard,4,7200.0,0.0,1942.58
+ORD0143,2025-01-26,Akash Jain,South,Furniture,Office Chair,6,28500.0,0.05,7916.28
+ORD0144,2025-04-17,Pooja Sharma,East,Electronics,Headphones,10,23750.0,0.05,5762.0
+ORD0145,2025-05-22,Anjali Mehta,North,Furniture,Office Chair,3,14250.0,0.05,2679.61
+ORD0146,2025-01-08,Rahul Sharma,South,Electronics,Mobile,6,102600.0,0.05,20291.26
+ORD0147,2025-03-06,Neha Singh,West,Office Supplies,Notebook,7,1400.0,0.2,143.82
+ORD0148,2025-09-20,Pooja Sharma,North,Accessories,Webcam,10,22000.0,0.0,3748.82
+ORD0149,2025-11-26,Manish Kumar,West,Office Supplies,Stapler,1,220.0,0.0,61.54
+ORD0150,2025-12-31,Arjun Malhotra,South,Electronics,Keyboard,8,14400.0,0.0,3741.89
+ORD0151,2025-05-21,Arjun Malhotra,West,Electronics,Mobile,10,144000.0,0.2,27312.67
+ORD0152,2025-09-16,Priya Verma,South,Office Supplies,Stapler,10,1870.0,0.15,186.69
+ORD0153,2025-04-27,Manish Kumar,West,Accessories,Laptop Bag,7,11340.0,0.1,2783.79
+ORD0154,2025-08-07,Rohit Gupta,West,Electronics,Monitor,6,64800.0,0.1,10034.94
+ORD0155,2025-02-13,Nisha Patel,South,Electronics,Laptop,2,76500.0,0.15,7597.44
+ORD0156,2025-10-15,Simran Kaur,East,Electronics,Headphones,9,20250.0,0.1,4333.55
+ORD0157,2025-05-28,Akash Jain,South,Accessories,Mouse,10,8100.0,0.1,1217.67
+ORD0158,2025-04-25,Nisha Patel,North,Furniture,Filing Cabinet,2,8100.0,0.1,2017.5
+ORD0159,2025-04-26,Meena Joshi,North,Office Supplies,File Folder,7,672.0,0.2,184.74
+ORD0160,2025-04-03,Nisha Patel,North,Office Supplies,Notebook,5,1125.0,0.1,297.35
+ORD0161,2025-10-17,Rahul Sharma,North,Furniture,Desk,7,56000.0,0.0,6069.0
+ORD0162,2025-08-03,Sneha Kapoor,East,Furniture,Filing Cabinet,8,32400.0,0.1,3612.01
+ORD0163,2025-03-21,Neha Singh,East,Electronics,Laptop,3,108000.0,0.2,9714.87
+ORD0164,2025-09-06,Vikas Yadav,North,Accessories,Laptop Bag,10,15300.0,0.15,2491.4
+ORD0165,2025-02-26,Sneha Kapoor,North,Office Supplies,Stapler,5,880.0,0.2,156.05
+ORD0166,2025-11-03,Vikas Yadav,South,Furniture,Filing Cabinet,1,4500.0,0.0,543.98
+ORD0167,2025-06-17,Simran Kaur,South,Office Supplies,Pen Set,2,360.0,0.0,64.61
+ORD0168,2025-09-30,Nisha Patel,North,Furniture,Filing Cabinet,4,14400.0,0.2,2761.12
+ORD0169,2025-08-12,Arjun Malhotra,West,Accessories,Mouse,1,765.0,0.15,202.14
+ORD0170,2025-05-29,Arjun Malhotra,South,Accessories,Laptop Bag,2,3060.0,0.15,257.56
+ORD0171,2025-02-15,Akash Jain,West,Accessories,Webcam,7,15400.0,0.0,1981.41
+ORD0172,2025-06-08,Anjali Mehta,North,Electronics,Keyboard,6,10260.0,0.05,1504.26
+ORD0173,2025-09-19,Rohit Gupta,South,Electronics,Headphones,4,9000.0,0.1,1351.98
+ORD0174,2025-05-12,Neha Singh,South,Electronics,Mobile,4,68400.0,0.05,13712.82
+ORD0175,2025-10-16,Akash Jain,East,Accessories,Laptop Bag,10,15300.0,0.15,3308.27
+ORD0176,2025-08-14,Sneha Kapoor,East,Office Supplies,Printer Paper,2,765.0,0.15,128.86
+ORD0177,2025-09-17,Amit Kumar,North,Electronics,Monitor,2,21600.0,0.1,3722.73
+ORD0178,2025-02-09,Manish Kumar,West,Office Supplies,Pen Set,2,288.0,0.2,57.26
+ORD0179,2025-10-20,Sandeep Singh,South,Electronics,Keyboard,4,6480.0,0.1,1302.49
+ORD0180,2025-02-22,Anjali Mehta,North,Electronics,Keyboard,6,10800.0,0.0,1953.83
+ORD0181,2025-08-13,Nisha Patel,East,Furniture,Filing Cabinet,9,32400.0,0.2,6543.54
+ORD0182,2025-07-29,Arjun Malhotra,North,Office Supplies,Stapler,6,1056.0,0.2,95.54
+ORD0183,2025-10-13,Meena Joshi,South,Office Supplies,Notebook,7,1575.0,0.1,205.38
+ORD0184,2025-10-26,Manish Kumar,South,Office Supplies,Notebook,3,675.0,0.1,95.88
+ORD0185,2025-10-14,Sandeep Singh,North,Electronics,Monitor,7,75600.0,0.1,18343.35
+ORD0186,2025-01-10,Vikas Yadav,East,Accessories,Webcam,6,11880.0,0.1,1378.7
+ORD0187,2025-04-26,Priya Verma,North,Accessories,USB Cable,3,997.5,0.05,95.19
+ORD0188,2025-03-09,Anjali Mehta,South,Office Supplies,File Folder,10,1020.0,0.15,113.07
+ORD0189,2025-07-30,Meena Joshi,East,Accessories,Mouse,6,5130.0,0.05,1405.2
+ORD0190,2025-10-01,Riya Gupta,South,Accessories,USB Cable,4,1260.0,0.1,344.13
+ORD0191,2025-08-14,Sandeep Singh,West,Office Supplies,File Folder,8,864.0,0.1,203.58
+ORD0192,2025-11-06,Riya Gupta,East,Furniture,Desk,3,21600.0,0.1,1953.42
+ORD0193,2025-03-05,Karan Singh,West,Electronics,Headphones,5,12500.0,0.0,2907.79
+ORD0194,2025-02-16,Rahul Sharma,West,Furniture,Filing Cabinet,4,15300.0,0.15,3930.97
+ORD0195,2025-09-15,Neha Singh,East,Electronics,Keyboard,6,10260.0,0.05,1613.21
+ORD0196,2025-06-13,Rohit Gupta,North,Furniture,Office Chair,2,9000.0,0.1,2144.49
+ORD0197,2025-12-23,Rahul Sharma,North,Office Supplies,Stapler,3,561.0,0.15,95.21
+ORD0198,2025-04-21,Meena Joshi,West,Electronics,Monitor,3,28800.0,0.2,7719.7
+ORD0199,2025-05-02,Simran Kaur,West,Electronics,Monitor,5,60000.0,0.0,5372.99
+ORD0200,2025-09-13,Sandeep Singh,South,Electronics,Laptop,10,360000.0,0.2,29983.35
